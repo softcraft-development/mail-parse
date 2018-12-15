@@ -1,0 +1,19 @@
+{
+  "name": "mail-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softcraft-development/mail-parse.git"
+  },
+  "author": "Craig Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softcraft-development/mail-parse/issues"
+  },
+  "homepage": "https://github.com/softcraft-development/mail-parse#readme"
+}
